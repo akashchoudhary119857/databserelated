@@ -7,6 +7,6 @@ switch($code)
     case 8*8+4: print("KING "); break;
     default: print("NOKING");
 }
-
+echo "hello";
 print("PALACE");
 ?>
